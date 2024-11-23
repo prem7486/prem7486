@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prem Singh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 Skills: HTML, CSS, javaScript, React, Tailwind, Git, Github
 - 📫 Email: luckypremchd13@gmail.com
 
 <!---
