@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Prem Singh
-- 👀 I’m interested in web development
-- 🌱 Skills: HTML, CSS, javaScript, React, Tailwind, Git, Github
-- 📫 Email: luckypremchd13@gmail.com
+- 👋 Hi, I’m Prem Singh                                                                                                 - 🌱 Skills: HTML, CSS, javaScript, React, Tailwind, Git, Github
+- 👀 I’m interested in web development                                                                                  - 📫 Email: luckypremchd13@gmail.com
+
+
 
 <!---
 prem7486/prem7486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
